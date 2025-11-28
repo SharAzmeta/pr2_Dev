@@ -1,3 +1,5 @@
 Шарафутдинов Азат ПИ-430Б
 bugfix 1
 bugfix 2
+feature 1
+feature 2
